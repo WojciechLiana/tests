@@ -6,3 +6,4 @@ console.log('amend');
 console.log('fifth');
 console.log('sixth');
 console.log('galaz');
+console.log('zmiana galezi');
