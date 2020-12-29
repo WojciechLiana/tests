@@ -7,4 +7,8 @@ console.log('fifth');
 console.log('sixth');
 console.log('galaz');
 console.log('zmiana galezi');
+<<<<<<< HEAD
 console.log('konfliktowa zmiana')
+=======
+console.log('kolejna zmiana');
+>>>>>>> origin/galaz
