@@ -6,3 +6,4 @@ console.log('amend');
 console.log('fifth');
 console.log('sixth');
 console.log("galaz 2");
+console.log('zmiana na galaz 2');
